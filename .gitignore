@@ -1,0 +1,31 @@
+# Python çalışma çıktıları
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Sanal ortamlar
+.venv/
+venv/
+env/
+.env
+
+# Editör ve işletim sistemi dosyaları
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# Paketleme çıktıları
+build/
+dist/
+*.spec
+
+# Uygulama tarafından üretilen hasta çıktıları
+notes/
+records/
+reports/
